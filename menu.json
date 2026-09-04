@@ -1,0 +1,59 @@
+{
+    "food": [
+        {
+            "id": 1,
+            "food_name": "Fried chicken",
+            "food_price": 575
+        },
+        {
+            "id": 2,
+            "food_name": "Sizzling chicken",
+            "food_price": 655
+        },
+        {
+            "id": 3,
+            "food_name": "Mongoliam chicken",
+            "food_price": 565
+        },
+        {
+            "id": 4,
+            "food_name": "Grand Mughal Spaecial Kind Kong",
+            "food_price": 390
+        },
+        {
+            "id": 5,
+            "food_name": "Mixed Vegetable with Chicken and Prown",
+            "food_price": 475
+        },
+        {
+            "id": 6,
+            "food_name": "Thai vegetable",
+            "food_price": 435
+        },
+        {
+            "id": 7,
+            "food_name": "prown chilli",
+            "food_price": 627
+        },
+        {
+            "id": 8,
+            "food_name": "Spaghetti Bolognese pasta",
+            "food_price": 600
+        },
+        {
+            "id": 9,
+            "food_name": "Chicken burger",
+            "food_price": 300
+        },
+        {
+            "id": 10,
+            "food_name": "Fish burger",
+            "food_price": 250
+        },
+        {
+            "id": 11,
+            "food_name": "Chicken chilli onion",
+            "food_price": 525
+        }
+    ]
+}
