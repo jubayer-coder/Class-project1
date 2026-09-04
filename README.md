@@ -1,1 +1,1 @@
-# Web ProggrammingClass-project1
+# Web Proggramming Theory Class-project1
